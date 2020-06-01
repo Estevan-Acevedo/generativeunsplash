@@ -193,8 +193,10 @@ src
 
 > Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
 
-- _Add user account and auth capabilities._
-- _Utilize the Giphy API to welcome new users with funny gifs._
+- Add more generative art elements
+- link to a website that will print creation and send it to the user for a cost
+- give the page professional style
+- come up with clever title
 
 <br>
 
