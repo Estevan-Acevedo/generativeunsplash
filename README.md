@@ -43,8 +43,7 @@ Image Page: https://wireframe.cc/M0s5P4
 
 ### Planning <!-- omit in toc -->
 
-- Have a **thoroughly** developed `README.md` file. (Refer below to _"Step 5: Pitch Your Project Idea"_ for more.)
-
+- Have a **thoroughly** developed `README.md` file. 
 ### React <!-- omit in toc -->
 
 - Be a working, interactice React app, built using `create-react-app`. Make sure that the React app is at the root of your repository and not in a nested folder. 
@@ -79,7 +78,7 @@ Image Page: https://wireframe.cc/M0s5P4
 
 ### Dealer's Choice <!-- omit in toc -->
 
-- Utilize Storybook to create at least 5 reusable components, which are then used in your project; OR
+- Utilize Storybook to create at least 5 reusable components, which are then used in your project
 
 
 
@@ -88,11 +87,7 @@ Image Page: https://wireframe.cc/M0s5P4
 
 #### Goals
 
-- _Lorem ipsum, dolor sit amet,_
-- _consectetur adipiscing elit._
-- _Phasellus dapibus fermentum risus vitae bibendum._
-- _Integer vel ipsum mollis odio sollicitudin ornare eu vel ex._
-- _etc._
+- Have a working project
 
 <br>
 
@@ -102,9 +97,9 @@ Image Page: https://wireframe.cc/M0s5P4
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Spring   | _Lorem ipsum dolor sit amet, consectetur._ |
+|   React Router   | For the multiple pages|
+| StoryBook | For at least 5 components |
+
 
 <br>
 
@@ -127,20 +122,7 @@ JSON data sample from your API goes here.
 > Use this section to define your React components and the data architecture of your app.
 
 ```
-src
-|__ assets/
-      |__ data-tests
-      |__ fonts
-      |__ graphics
-      |__ images
-      |__ mockups
-|__ components/
-      |__ Header.jsx
-      |__ Hero.jsx
-      |__ Ipsum.jsx
-      |__ Lorem.jsx
-      |__ CTA.jsx
-      |__ Footer.jsx
+TBD
 ```
 
 <br>
@@ -156,6 +138,7 @@ src
 |   Gallery    |   class    |   y   |   n   | _The gallery will render the posts using cards in flexbox._      |
 | Gallery Card | functional |   n   |   y   | _The cards will render the post info via props._                 |
 |    Footer    | functional |   n   |   n   | _The footer will show info about me and a link to my portfolio._ |
+|    More to be added TBD    | functional |   n   |   n   |  |
 
 <br>
 
@@ -185,7 +168,7 @@ src
 
 |  Function  | Description                                |
 | :--------: | :----------------------------------------- |
-| Capitalize | _Lorem ipsum dolor sit amet, consectetur._ |
+|  | |
 
 <br>
 
