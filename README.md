@@ -167,9 +167,15 @@ src
 
 | Task                | Priority | Estimated Time | Time Invested | Actual Time |
 | ------------------- | :------: | :------------: | :-----------: | :---------: |
-| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
+| Research API  |    L     |     2 hrs      |     2 hrs     |    2 hrs    |
+| Write Readme |    H     |     1 hrs      |     1 hrs     |     1hr     |
+| Make API call work with hooks |    H     |     2 hrs      |     2 hrs     |     TBD     |
+| Add Link / Router Elements |    H     |     0 hrs      |     3 hrs     |     TBD     |
+| Add generative coding element with React |   20 hrs    |     2 hrs      |     3 hrs     |     TBD     |
+| Create Storybook w/ 5 elements|    H   |     8 hrs      |     3 hrs     |     TBD     |
+| Style with flexbox |    H   |     8 hrs      |     3 hrs     |     TBD     |
+| Add media queries |    H   |     8 hrs      |     3 hrs     |     TBD     |
+| TOTAL               |          |     29hrs hrs      |     3 hrs     |     TBD     |
 
 <br>
 
