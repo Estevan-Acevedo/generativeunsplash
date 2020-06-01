@@ -1,12 +1,5 @@
 # generativeunsplash
 
-
-WireFrame:
-
-
-
-
-
 - [Project Planning](#project-planning)
   - [Overview](#overview)
   - [Wireframes](#wireframes)
@@ -25,17 +18,16 @@ WireFrame:
 
 ## Project Planning
 
-> This section should be completed for your project pitch with instructors.
->
-> To ensure correct Markdown, it's recommended that you copy and paste the raw template code. The content provided is example content ONLY. You must make changes to all sections as they relate to your own project.
+I will use the Unsplash Api to create a list of images with a search bar. The images will be clickable. Once Clicked, the user will be routed to a second page. On this page they will have options to use generative art elements on the photo.
 
 <br>
 
 ### Overview
 
-**Project Title** 
+**Generative Unsplash.** 
 
-**Project Description** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+**Project Description** I will use the Unsplash Api to create a list of images with a search bar. The images will be clickable. Once Clicked, the user will be routed to a second page. On this page they will have options to use generative art elements on the photo.
+
 
 <br>
 
@@ -49,10 +41,49 @@ Image Page: https://wireframe.cc/M0s5P4
 
 ### MVP
 
-> The Minimum Viable Product should be a well-planned and easily-communicated product, ensuring that the client's deliverable will be achievable and meet specifications within the time frame estimated.
+### Planning <!-- omit in toc -->
 
-_The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+- Have a **thoroughly** developed `README.md` file. (Refer below to _"Step 5: Pitch Your Project Idea"_ for more.)
 
+### React <!-- omit in toc -->
+
+- Be a working, interactice React app, built using `create-react-app`. Make sure that the React app is at the root of your repository and not in a nested folder. 
+- Utilize React Router, installed via NPM. 
+- Have at least 6 separate, rendered components.
+- Implement an organized and understandable React file structure.
+- Utilize functional and class React components appropriately.
+- Use Axios to consume data from an third party API, and render that data in your components. (Remember, many lists of good API's are listed in the #Resources section.)
+- Use **only** React for DOM Manipulation.
+
+### Styling <!-- omit in toc -->
+
+- Be styled with CSS, either using global style sheets or styled components.
+- Use flexbox (`display: flex`) or CSS Grid.
+- Implement responsive design on 3 screen sizes (including desktop) using 2 media queries (tablet and mobile).
+  
+### Linting <!-- omit in toc -->
+
+- Indent properly.
+- Utilize high-quality, semantic variable names.
+- Follow `camelCase` and `kebab-case` conventions.
+- Remove unnecessary boilerplate React files and code.
+- Remove all `console.log()`s and commented out code (functional notes and comments are okay).
+
+### Deployment <!-- omit in toc -->
+
+- Deployed via Surge or Netlify.
+
+### Procedural <!-- omit in toc -->
+
+- Commit early and often! Have GitHub commits (documenting substantial progress) **every day**.
+
+### Dealer's Choice <!-- omit in toc -->
+
+- Utilize Storybook to create at least 5 reusable components, which are then used in your project; OR
+
+
+
+-
 <br>
 
 #### Goals
@@ -81,9 +112,9 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 > Use the Data Section to define the API(s) you will be consuming for your project, inluding sample URL queries.
 
-|    API     | Quality Docs? | Website       | Sample Query                            |
-| :--------: | :-----------: | :------------ | :-------------------------------------- |
-| WeatherAPI |      yes      | _example.com_ | _example.com/mickeymouse?s=movies&t=10_ |
+|    API     | Quality Docs? | Website                  | Sample Query                                                 |
+| :--------: | :-----------: | :------------            | :--------------------------------------                      |
+|Unsplash API|      yes      | https://api.unsplash.com | https://api.unsplash.com/photos/?page=1&per_page=9&client_id=|
 
 ```
 JSON data sample from your API goes here.
